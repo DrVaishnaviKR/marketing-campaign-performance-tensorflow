@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Large processed data files (we only keep raw CSV)
+data/processed/
+*.npy
+*.joblib
+
+# Trained TensorFlow models (can be retrained easily)
+models/*.h5
+models/*.keras
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
