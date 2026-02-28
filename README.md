@@ -42,4 +42,4 @@ marketing_campaign_tf_project/
 
 ## Author
 Vaishnavi – Aspiring Business Analyst | Marketing Analytics Enthusiast  
-[LinkedIn](www.linkedin.com/in/dr-vaishnavi-k-r-577947314) | [Email](mailto:vaishnavirajeshshyni.com)
+[LinkedIn](linkto:www.linkedin.com/in/dr-vaishnavi-k-r-577947314) | [Email](mailto:vaishnavirajeshshyni.com)
